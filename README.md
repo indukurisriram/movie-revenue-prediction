@@ -1,6 +1,6 @@
 # Movie Revenue Prediction Machine Learning Project
 
-This project aims to predict movie box office collections using features such as marketing expense, production expense, budget, actor ratings, director ratings, genre, and more.
+**A machine learning project that predicts a movie's box office revenue based on its financial budget, genre, and critical ratings.**
 
 ## Project Structure
 - `data/`: Contains the primary dataset (`Movie_regression.csv`).
